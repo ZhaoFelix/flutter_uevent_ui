@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## 效果图
+
+![](./screens/1.png)
+
+![](./screens/2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
